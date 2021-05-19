@@ -467,6 +467,9 @@ home section
   border-radius: 50%;
   border: 10px solid transparent;
 }
+.word h2{
+  display: inline ;
+}
 /*-----------------
 about section
 -----------------*/

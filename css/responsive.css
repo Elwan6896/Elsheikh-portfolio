@@ -1,3 +1,9 @@
+@media (max-width: 1079px) {
+  .word h2{
+   display: block !important;
+ }
+}
+
 @media (max-width: 991px) {
   .Service-section .Service-items{
     flex: 0 0 50%;
@@ -80,5 +86,7 @@
   .home-section .home-text h2{
     font-size: 40px;
   }
-
+  .word h2{
+   line-height: 80px;
+ }
 }
